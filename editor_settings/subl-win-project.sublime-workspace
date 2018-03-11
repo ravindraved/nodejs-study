@@ -15,13 +15,33 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 345.0,
-		"last_filter": "git commit",
+		"height": 128.0,
+		"last_filter": "git push",
 		"selected_items":
 		[
 			[
+				"git push",
+				"Git: Push"
+			],
+			[
 				"git commit",
 				"Git: Commit"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git",
+				"Set Syntax: Git Graph"
 			],
 			[
 				"git pull",
@@ -44,7 +64,7 @@
 				"Install Package Control"
 			]
 		],
-		"width": 470.0
+		"width": 497.0
 	},
 	"console":
 	{
@@ -70,8 +90,8 @@
 	],
 	"file_history":
 	[
-		"/home/ravindra/project_workspace/nodejs-study/editor_settings/subl-win-project.sublime-project",
 		"/home/ravindra/project_workspace/nodejs-study/editor_settings/subl-win-settings.json",
+		"/home/ravindra/project_workspace/nodejs-study/editor_settings/subl-win-project.sublime-project",
 		"/C/project_workspace/github/nodejs-study/subl-win-project.sublime-project",
 		"/C/project_workspace/github/nodejs-study/subl-win-settings.json",
 		"/C/project_workspace/github/nodejs-study/.gitignore",

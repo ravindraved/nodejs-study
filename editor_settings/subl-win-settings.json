@@ -1,4 +1,10 @@
 {
+
+    "ignored_packages":
+    [
+        "Vintage"
+    ],
+    
     "color_scheme": "Packages/Color Scheme - Default/Mariana.tmTheme",
     "dictionary": "Packages/Language - English/en_GB.dic",
     "font_face": "Fera",
