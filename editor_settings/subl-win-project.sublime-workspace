@@ -51,8 +51,14 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/home/ravindra/project_workspace/nodejs-study"
+	],
 	"file_history":
 	[
+		"/home/ravindra/project_workspace/nodejs-study/editor_settings/subl-win-settings.json",
+		"/home/ravindra/project_workspace/nodejs-study/editor_settings/subl-win-project.sublime-project",
 		"/C/project_workspace/github/nodejs-study/subl-win-project.sublime-project",
 		"/C/project_workspace/github/nodejs-study/subl-win-settings.json",
 		"/C/project_workspace/github/nodejs-study/.gitignore",
@@ -139,6 +145,10 @@
 	"output.find_results":
 	{
 		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 120.0
 	},
 	"pinned_build_system": "",
 	"project": "subl-win-project.sublime-project",
