@@ -15,41 +15,13 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 128.0,
-		"last_filter": "git push",
+		"height": 152.0,
+		"last_filter": "packa",
 		"selected_items":
 		[
 			[
-				"git push",
-				"Git: Push"
-			],
-			[
-				"git commit",
-				"Git: Commit"
-			],
-			[
-				"git stat",
-				"Git: Status"
-			],
-			[
-				"git add",
-				"Git: Add All"
-			],
-			[
-				"git status",
-				"Git: Status"
-			],
-			[
-				"git",
-				"Set Syntax: Git Graph"
-			],
-			[
-				"git pull",
-				"Git: Pull"
-			],
-			[
-				"git add ",
-				"Git: Add All"
+				"packa",
+				"Install Package Control"
 			],
 			[
 				"theme",
@@ -64,7 +36,7 @@
 				"Install Package Control"
 			]
 		],
-		"width": 497.0
+		"width": 666.0
 	},
 	"console":
 	{
@@ -85,16 +57,17 @@
 	},
 	"expanded_folders":
 	[
-		"/home/ravindra/project_workspace/nodejs-study",
-		"/home/ravindra/project_workspace/nodejs-study/editor_settings"
+		"/C/project_workspace/github/nodejs-study",
+		"/C/project_workspace/github/nodejs-study/editor_settings"
 	],
 	"file_history":
 	[
-		"/home/ravindra/project_workspace/nodejs-study/editor_settings/subl-win-settings.json",
-		"/home/ravindra/project_workspace/nodejs-study/editor_settings/subl-win-project.sublime-project",
+		"/C/project_workspace/github/nodejs-study/.gitignore",
+		"/C/project_workspace/github/nodejs-study/helloworld.js",
+		"/C/project_workspace/github/nodejs-study/editor_settings/subl-win-project.sublime-project",
+		"/C/project_workspace/github/nodejs-study/editor_settings/subl-win-settings.json",
 		"/C/project_workspace/github/nodejs-study/subl-win-project.sublime-project",
 		"/C/project_workspace/github/nodejs-study/subl-win-settings.json",
-		"/C/project_workspace/github/nodejs-study/.gitignore",
 		"/C/project_workspace/github/nodejs-study/.git/config",
 		"/C/Users/Ravindra/Desktop/mcafee-settings.txt",
 		"/C/Users/Ravindra/Desktop/gcp-console.txt",
@@ -178,10 +151,6 @@
 	"output.find_results":
 	{
 		"height": 0.0
-	},
-	"output.git":
-	{
-		"height": 120.0
 	},
 	"pinned_build_system": "",
 	"project": "subl-win-project.sublime-project",
