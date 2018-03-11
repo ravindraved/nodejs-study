@@ -3,10 +3,39 @@
 	{
 		"selected_items":
 		[
+			[
+				"m",
+				"myRandomNumber"
+			]
 		]
 	},
 	"buffers":
 	[
+		{
+			"file": "/home/ravindra/project_workspace/nodejs-study/helloworld.js",
+			"settings":
+			{
+				"buffer_size": 30,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/ravindra/project_workspace/nodejs-study/randomnumber/package.json",
+			"settings":
+			{
+				"buffer_size": 262,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/ravindra/project_workspace/nodejs-study/randomnumber/index.js",
+			"settings":
+			{
+				"buffer_size": 247,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -15,13 +44,57 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 152.0,
-		"last_filter": "packa",
+		"height": 128.0,
+		"last_filter": "package install",
 		"selected_items":
 		[
 			[
-				"packa",
-				"Install Package Control"
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"Theme",
+				"UI: Select Theme"
+			],
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git",
+				"Set Syntax: Git Graph"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"git add ",
+				"Git: Add All"
 			],
 			[
 				"theme",
@@ -36,7 +109,7 @@
 				"Install Package Control"
 			]
 		],
-		"width": 666.0
+		"width": 479.0
 	},
 	"console":
 	{
@@ -57,17 +130,17 @@
 	},
 	"expanded_folders":
 	[
-		"/C/project_workspace/github/nodejs-study",
-		"/C/project_workspace/github/nodejs-study/editor_settings"
+		"/home/ravindra/project_workspace/nodejs-study",
+		"/home/ravindra/project_workspace/nodejs-study/editor_settings",
+		"/home/ravindra/project_workspace/nodejs-study/randomnumber"
 	],
 	"file_history":
 	[
-		"/C/project_workspace/github/nodejs-study/.gitignore",
-		"/C/project_workspace/github/nodejs-study/helloworld.js",
-		"/C/project_workspace/github/nodejs-study/editor_settings/subl-win-project.sublime-project",
-		"/C/project_workspace/github/nodejs-study/editor_settings/subl-win-settings.json",
+		"/home/ravindra/project_workspace/nodejs-study/editor_settings/subl-win-settings.json",
+		"/home/ravindra/project_workspace/nodejs-study/editor_settings/subl-win-project.sublime-project",
 		"/C/project_workspace/github/nodejs-study/subl-win-project.sublime-project",
 		"/C/project_workspace/github/nodejs-study/subl-win-settings.json",
+		"/C/project_workspace/github/nodejs-study/.gitignore",
 		"/C/project_workspace/github/nodejs-study/.git/config",
 		"/C/Users/Ravindra/Desktop/mcafee-settings.txt",
 		"/C/Users/Ravindra/Desktop/gcp-console.txt",
@@ -112,8 +185,93 @@
 	"groups":
 	[
 		{
+			"selected": 2,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/home/ravindra/project_workspace/nodejs-study/helloworld.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 30,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/ravindra/project_workspace/nodejs-study/randomnumber/package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 262,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								233,
+								233
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/ravindra/project_workspace/nodejs-study/randomnumber/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 247,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								245,
+								247
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -151,6 +309,10 @@
 	"output.find_results":
 	{
 		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 120.0
 	},
 	"pinned_build_system": "",
 	"project": "subl-win-project.sublime-project",
