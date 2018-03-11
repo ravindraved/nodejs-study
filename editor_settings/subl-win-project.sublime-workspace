@@ -51,8 +51,13 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/C/project_workspace/github/nodejs-study"
+	],
 	"file_history":
 	[
+		"/C/project_workspace/github/nodejs-study/editor_settings/subl-win-project.sublime-project",
 		"/C/project_workspace/github/nodejs-study/subl-win-project.sublime-project",
 		"/C/project_workspace/github/nodejs-study/subl-win-settings.json",
 		"/C/project_workspace/github/nodejs-study/.gitignore",
