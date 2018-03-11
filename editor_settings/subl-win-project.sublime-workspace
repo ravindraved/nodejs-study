@@ -15,10 +15,22 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 56.0,
-		"last_filter": "",
+		"height": 345.0,
+		"last_filter": "git commit",
 		"selected_items":
 		[
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"git add ",
+				"Git: Add All"
+			],
 			[
 				"theme",
 				"UI: Select Color Scheme"
@@ -32,7 +44,7 @@
 				"Install Package Control"
 			]
 		],
-		"width": 588.0
+		"width": 470.0
 	},
 	"console":
 	{
@@ -53,12 +65,13 @@
 	},
 	"expanded_folders":
 	[
-		"/home/ravindra/project_workspace/nodejs-study"
+		"/home/ravindra/project_workspace/nodejs-study",
+		"/home/ravindra/project_workspace/nodejs-study/editor_settings"
 	],
 	"file_history":
 	[
-		"/home/ravindra/project_workspace/nodejs-study/editor_settings/subl-win-settings.json",
 		"/home/ravindra/project_workspace/nodejs-study/editor_settings/subl-win-project.sublime-project",
+		"/home/ravindra/project_workspace/nodejs-study/editor_settings/subl-win-settings.json",
 		"/C/project_workspace/github/nodejs-study/subl-win-project.sublime-project",
 		"/C/project_workspace/github/nodejs-study/subl-win-settings.json",
 		"/C/project_workspace/github/nodejs-study/.gitignore",
