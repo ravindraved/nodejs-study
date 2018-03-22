@@ -7,23 +7,21 @@ const rl = readline.createInterface({
 
 rl.question(
     'Pick a number-->',
-    (number) =>
-    {
+    (number) => {
         console.log(`you chose ${number}`);
 
         rl.question(
             'Pick a second number: ',
-            (number2) =>
-            {
+            (number2) => {
                 const product = parseInt(number) +
                     parseInt(number2);
                 console.log(`${number} + ${number2} = ${product}`);
                 rl.close();
 
             })
-;
+        ;
 
-})
+    })
 ;
 
 
